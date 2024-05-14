@@ -4,11 +4,15 @@
     list-style: none;
 }
 
-.navigation li{
-    padding-right: 54px;
+.navigation .spazio{
+    margin-right: 54px;
 }
 
 .navigation a{
     text-decoration: none;
     color: #FFFFFF
+}
+.navigation{
+    margin-top: 87px;
+    margin-right: 35px;
 }

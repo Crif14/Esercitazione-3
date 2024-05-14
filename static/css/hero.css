@@ -10,7 +10,7 @@
 }
 
 
-.hero::after{
+.gradiente{
     content: "";
     display: block;
     position: absolute;
