@@ -3,3 +3,7 @@
 @import "hero.css";
 @import "header.css";
 @import "textcontent.css";
+@import "footer.css";
+html{
+    margin-top: none;
+}

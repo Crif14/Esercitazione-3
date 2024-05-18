@@ -1,15 +1,17 @@
-.text{
+#text{
     display: flex;
     justify-content: center;
     flex-direction: column;
     align-items: center;
 }
-.text h1{
+#text h1{
     font-size: 80px;
     color: #FFFFFF;
     text-align: center;
+    border-top: 3px;
+    border-color: #343434;
 }
-.text p{
+#text p{
     font-size: 30px;
     color: #FFFFFF;
     text-align: center;
@@ -19,4 +21,12 @@
     text-align: center;
     color: #080C71;
     font-size: 35px;
+    padding-left: 124.1px;
+    padding-bottom: 11px;
+    padding-top: 15px;
+    padding-right: 125.9px;
+    border-radius: 13%;
+    border-width: 1px;
+    border-color: #FFFFFF;
+    border-spacing: 44.5px;
 }

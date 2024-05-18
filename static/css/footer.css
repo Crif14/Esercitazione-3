@@ -1,0 +1,15 @@
+.footer ul{
+    display: flex;
+    flex-direction: row-reverse;
+    font-size: 20px;
+    list-style: none;
+}
+
+.footer a{
+    text-decoration: none;
+    width: 24.14px;
+    height: 24.14px;
+}
+.footer{
+    
+}
