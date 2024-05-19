@@ -7,26 +7,29 @@
 #text h1{
     font-size: 80px;
     color: #FFFFFF;
+    border-bottom: 2px solid #343434;
+    border-top: 2px solid #343434;
     text-align: center;
-    border-top: 3px;
-    border-color: #343434;
+    padding-top: 18.5px; 
+    padding-bottom: 20.5px;
 }
 #text p{
     font-size: 30px;
     color: #FFFFFF;
     text-align: center;
 }
-.button{
+.button a{
     background-color: #FFFFFF;
     text-align: center;
     color: #080C71;
+    margin-top: 44.5px;
     font-size: 35px;
     padding-left: 124.1px;
     padding-bottom: 11px;
     padding-top: 15px;
     padding-right: 125.9px;
     border-radius: 13%;
-    border-width: 1px;
-    border-color: #FFFFFF;
-    border-spacing: 44.5px;
+}
+.button{
+    border-top: 2px solid #FFFFFF;
 }

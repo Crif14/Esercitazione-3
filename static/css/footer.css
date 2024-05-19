@@ -1,15 +1,19 @@
-.footer ul{
+.navfooter ul{
     display: flex;
-    flex-direction: row-reverse;
+    justify-content: end;
     font-size: 20px;
     list-style: none;
+    align-items: end;
+    margin-right: 35px;
+    padding-bottom: 30px;
+    flex-direction: row;
 }
 
-.footer a{
+.navfooter ul li a{
     text-decoration: none;
     width: 24.14px;
     height: 24.14px;
+    margin-left: 70px;
+    margin-top: 280px;
 }
-.footer{
-    
-}
+
