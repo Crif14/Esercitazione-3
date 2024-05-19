@@ -5,7 +5,7 @@
 @import "header.css";
 @import "textcontent.css";
 @import "footer.css";
-html{
-    margin-top: 0;
+html, body{
+    margin: 0;
     padding: 0;
 }
