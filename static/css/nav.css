@@ -2,6 +2,7 @@
     display: flex;
     font-size: 20px;
     list-style: none;
+    margin-top: 87px;
 }
 
 .navigation .spazio{
@@ -13,6 +14,5 @@
     color: #FFFFFF
 }
 .navigation{
-    margin-top: 87px;
     margin-right: 35px;
 }
